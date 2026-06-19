@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.lib
+*.ilk
+
+# .NET Core
+*.log
+*.nupkg
+*.nupkg.metadata
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OS
+Thumbs.db
+.DS_Store
